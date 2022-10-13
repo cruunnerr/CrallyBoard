@@ -1,0 +1,46 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "Crallyboard Ext.",
+        "revision": "1.0",
+        "company": "",
+        "date": "2022-04-26"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "top-bottom",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "179,110,176,209,186,72,56,37,80,50,185,27,121,216,19,206,28,54,104,146,139,132,224,128,126,82,138,122,89,144,20,102,172,59,119,208,26,65,165,68,197,188,62,63,211,117,7,60,219,152,109,226,97,77,123,51,181,16,134,225,204,159,105,113,93,180,147,79,13,2,90,12,45,210,31,3,220,177,49,187,167,130,141,135,218,203,145,47,0,158,127,153,166,35,140,143,137,87,4,84,46,156,151,131,161,195,215,25,71,120,95,212,14,175,207,149,107,1,222,96,18,42,184,15,30,148,183,223,52,196,230,5,92,73,94,55,174,24,136,118,57,221,133,43,85,170,39,101,173,202,64,171,17,66,76,194",
+            "Placed": ""
+        },
+        "darkMode": true,
+        "highlightpin1": false,
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "buy",
+            "alt buy",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "markWhenChecked": ""
+    }
+}
