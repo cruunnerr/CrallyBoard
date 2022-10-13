@@ -3,6 +3,8 @@ Smart Home System / Alarm System / Input Output System for Raspberry Pi CM4
 
 ***THIS IS JUST A DOCUMENTATION FOR MYSELF! YOU CAN USE IT, BUT THERE MAY BE MISSING SOME STEPS!***
 
+![realitic_3d_animation](https://user-images.githubusercontent.com/22455230/195521964-db55e1d1-5743-4786-8821-365f7dfaded0.png)
+
 
 This is a custom Board made for Raspberry Pi CM4 Module
 
