@@ -45,3 +45,10 @@ For the 3V Line on the board you can choose (via jumper) to use the 3V comming f
 
 
 I personally use it as Smart Home System and Alarm System. The Software is written with python and php. Maybe I will add it to the repository later...
+
+
+
+
+
+![IMG_1065](https://user-images.githubusercontent.com/22455230/195527038-1a63e60b-063c-459c-8f7f-5adf4385f057.jpg)
+![IMG_1066](https://user-images.githubusercontent.com/22455230/195527064-88f9427e-89a1-447b-8955-54e90a455bb1.jpg)
