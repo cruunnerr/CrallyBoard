@@ -12,7 +12,7 @@ It contains:
 
 - 16 Inputs via GPIO (with 3,3V Z-Diodes) connected through a PIN-Header to eventually add some Input-Handling PCBs in future
 - 1 seperate Input via GPIO
-- 16 Ouputs via MCP23017 (I2C). Outputs from MCP over OptoCoupler to a PinHeader to directly connect these Output-Relays-Modules (https://www.amazon.de/-/en/AZDelivery-optocoupler-low-level-compatible-including/dp/B07N2Z1DWG/ref=sr_1_2?crid=32S2CZSB2PI05&keywords=12v%2B16%2Bch%2Brelais%2Bmodul&qid=1665641353&sprefix=12v%2B16%2Bch%2Brelays%2Bmodule%2Caps%2C74&sr=8-2&th=1)
+- 16 Ouputs via MCP23017 (I2C). Outputs from MCP over OptoCoupler to a PinHeader to directly connect these [Output-Relays-Modules ](https://www.amazon.de/-/en/AZDelivery-optocoupler-low-level-compatible-including/dp/B07N2Z1DWG/ref=sr_1_2?crid=32S2CZSB2PI05&keywords=12v%2B16%2Bch%2Brelais%2Bmodul&qid=1665641353&sprefix=12v%2B16%2Bch%2Brelays%2Bmodule%2Caps%2C74&sr=8-2&th=1)
 - 1 OnBoard Output Relays directly via GPIO
 - 1 Display Port for SSD1306 (I2C) (3V or 5V)
 - 1 RTC Port for DS3231 (I2C) (3V or 5V)
