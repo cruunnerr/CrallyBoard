@@ -42,14 +42,24 @@ Well, the values are not that accurate and I know that the circuit isn't very pr
 
 For the 3V Line on the board you can choose (via jumper) to use the 3V comming from the RPi or use a seperate regulator (TL1963A-33DCYR).
 
+
+
 Power Consumption:
+
 When RPi, SSD1306 and DS3231 is on Board and no Relais is activ we are around = 3,8W (12,9V*0,3A)
+
 With all Relays on Ralay Board activ we are around = 14W
+
 So every Relay consumes around 0,6W or 0,05A
 
+
+
 So with no Relay activ and just using the RPi with OLED and RTC we get the following runtimes:
+
 7Ah Battery = >20h
+
 17Ah Battery = >50h
+
 24Ah Battery = >75h
 
 
