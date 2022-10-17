@@ -8,7 +8,9 @@ Smart Home System / Alarm System / Input Output System for Raspberry Pi CM4
 
 This is a custom Board made for Raspberry Pi CM4 Module
 
-It contains:
+_______________________________________________________
+
+***It contains:***
 
 - 16 Inputs via GPIO (with 3,3V Z-Diodes) connected through a PIN-Header to eventually add some Input-Handling PCBs in future
 - 1 seperate Input via GPIO
@@ -25,8 +27,9 @@ It contains:
 - 1 PCI-E 1x Port
 - 2 FAN-Ports (5V and 12V)
 
+_______________________________________________________
 
-Main Supply Power:
+***Main Supply Power:***
 
 There yre several Options:
 
@@ -43,8 +46,9 @@ Well, the values are not that accurate and I know that the circuit isn't very pr
 For the 3V Line on the board you can choose (via jumper) to use the 3V comming from the RPi or use a seperate regulator (TL1963A-33DCYR).
 
 
+_______________________________________________________
 
-Power Consumption:
+***Power Consumption:***
 
 When RPi, SSD1306 and DS3231 is on Board and no Relais is activ we are around = 3,8W (12,9V*0,3A)
 
@@ -61,6 +65,8 @@ So with no Relay activ and just using the RPi with OLED and RTC we get the follo
 17Ah Battery = >50h
 
 24Ah Battery = >75h
+
+_______________________________________________________
 
 
 I personally use it as Smart Home System and Alarm System. The Software is written with python and php. Maybe I will add it to the repository later...
