@@ -41,7 +41,7 @@ There yre several Options:
 When using 16-30V Power Supply you were able to connect a Gel Lead Battery. With the potentiometer you can adjust the Battery Load Voltage (max. 15V due to Zener Diodes).
 Also there is a deep discharge protection via ICL7665. It disconnects the Output from Battery at around <11,2V and reconnects at around >13V.
 
-Well, the values are not that accurate and I know that the circuit isn't very professional. But for my usage it's working well enough.
+Well, the values are not that accurate and I know that the circuit maybe isn't the best solution. But for my usage it's working well enough.
 
 For the 3V Line on the board you can choose (via jumper) to use the 3V comming from the RPi or use a seperate regulator (TL1963A-33DCYR).
 
